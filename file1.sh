@@ -1,6 +1,6 @@
-#!/bin/bash
+#!/bin/python3
 
-echo 'sachin saini'
-cal
-date
-whoami
+print("hello world")
+for i in range(1,6):
+	print("Hello",i)
+
